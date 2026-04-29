@@ -1,10 +1,8 @@
 # Daily-Scripts
 Daily Scripts
 
-Find duplicates files based on frame size, file size and duration.
+# 29th April added 
+shell script for batch sign apks
+shell script for batch install apks
 
-Sort file by video frame size.
-
-Remove all metadata from video files.
-
-ffmpeg required.
+shizuku services needed.
